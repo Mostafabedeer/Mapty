@@ -24,6 +24,7 @@ html {
 }
 
 body {
+  overflow-x: hidden;
   position: relative;
   font-family: 'Manrope', sans-serif;
   color: var(--color-light--2);
