@@ -111,6 +111,16 @@ class App {
     overlay.addEventListener('click', this._toggleModal);
     btnSideBarClose.addEventListener('click', this._triggerSideBar.bind(this));
     btnMap.addEventListener('click', this._triggerSideBar.bind(this));
+    // Prevent zooming on input focus
+    document.addEventListener(
+      'touchstart',
+      function (event) {
+        if (event.touches.length > 1) {
+          event.preventDefault();
+        }
+      },
+      { passive: false }
+    );
   }
 
   _getPosition() {
