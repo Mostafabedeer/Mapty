@@ -397,8 +397,8 @@ a:visited {
   }
   .sidebar {
     position: absolute;
-    max-width: 80%;
-    height: 85%;
+    width: 75vw;
+    height: 90vh;
     transform: translateX(-105%);
   }
   .sidebar.open {
