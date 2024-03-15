@@ -17,9 +17,20 @@ Mapty is a web application built with HTML5, CSS3, and JavaScript designed to he
 
 https://mapty-psi-one.vercel.app/
 
+## Architecture
+
+![Mapty-architecture-final](https://github.com/Mostafabedeer/Mapty/assets/86775807/d170c9b5-0a36-4f21-bdc7-d09e4ac343ba)
+
+![Mapty-flowchart](https://github.com/Mostafabedeer/Mapty/assets/86775807/de0b647f-df51-4843-a66a-0fbfe9d780f1)
+
+
+Mapty follows a structured architecture designed to maintain clean code and facilitate future enhancements. The web app is built using Object-Oriented Programming (OOP) concepts, ensuring modularity, reusability, and scalability.
+
+
 ## Usage
 
 1- **Adding a New Workout**:
+
 
 - Click on any place in your map to record the interface to start adding a new workout.
 - Choose the type of workout from the dropdown menu (e.g., running, cycling).
