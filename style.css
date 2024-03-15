@@ -396,6 +396,9 @@ a:visited {
     width: auto;
     padding: 2rem;
   }
+  .modal__message {
+    font-size: 1.2rem;
+  }
   .sidebar {
     position: absolute;
     width: 75vw;
