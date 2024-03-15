@@ -371,7 +371,7 @@ a:visited {
   height: 100%;
   background-color: rgba(0, 0, 0, 0.6);
   backdrop-filter: blur(3px);
-  z-index: 1001;
+  z-index: 1000001;
 }
 
 .hidden {
