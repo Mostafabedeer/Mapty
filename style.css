@@ -394,6 +394,7 @@ a:visited {
 
   .modal {
     width: auto;
+    padding: 2rem;
   }
   .sidebar {
     position: absolute;
