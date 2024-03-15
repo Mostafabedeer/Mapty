@@ -17,7 +17,16 @@ Mapty is a web application built with HTML5, CSS3, and JavaScript designed to he
 
 ## Demo
 
+
 https://mapty-psi-one.vercel.app/
+
+## Architecture
+
+Mapty follows a structured architecture designed to maintain clean code and facilitate future enhancements. The web app is built using Object-Oriented Programming (OOP) concepts, ensuring modularity, reusability, and scalability.
+
+
+![Mapty-architecture-final](https://github.com/Mostafabedeer/Mapty/assets/86775807/be735672-7fbc-47fc-af29-9b013b96a399)
+![Mapty-flowchart](https://github.com/Mostafabedeer/Mapty/assets/86775807/f5571618-cdb3-44ba-9423-a842e44c0470)
 
 
 ## Usage
