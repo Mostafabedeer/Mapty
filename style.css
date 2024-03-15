@@ -416,8 +416,7 @@ a:visited {
     left: 6rem;
   }
   .sidebar {
-    height: 100%;
-    padding: 2rem 4rem 3rem 3rem;
+    padding: 1.5rem 3.5rem 2.5rem 2.5rem;
   }
 
   .workout {
