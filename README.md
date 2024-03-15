@@ -69,4 +69,5 @@ Mapty was developed by Mostafa Beder. It utilizes the Leaflet library for map re
 If you have any feedback, suggestions, or issues regarding Mapty, please feel free to [contact us](mostafabder2@gmail.com) or open an issue on the GitHub repository.
 
 Enjoy tracking your workouts with Mapty!
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+![logo](https://github.com/Mostafabedeer/Mapty/assets/86775807/c45a5b7c-c43d-4732-96cb-9c30ef512e28)
