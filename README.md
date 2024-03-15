@@ -2,6 +2,7 @@
 # Mapty - Track Your Workouts on a Map
 
 Mapty is a web application built with HTML5, CSS3, and JavaScript designed to help you track all your workouts on a map. With Mapty, you can easily record and visualize your fitness activities, whether it's running, cycling, hiking, or any other outdoor exercise.
+![maptypreview](https://github.com/Mostafabedeer/Mapty/assets/86775807/9d292b6d-d266-4419-8044-3d379482ca04)
 
 
 ## Features
@@ -12,6 +13,7 @@ Mapty is a web application built with HTML5, CSS3, and JavaScript designed to he
 -  Local Storage: Save workout data locally to ensure it's not lost between sessions.
 -  Edit and Delete Workouts: Users can edit or delete individual workouts, as well as delete all workouts at once.
 - **Responsive and Adaptive Design**: The website is designed to be responsive and adaptive for all devices, ensuring optimal viewing and usability regardless of screen size or device type.
+
 
 
 
@@ -67,6 +69,8 @@ Mapty was developed by Mostafa Beder. It utilizes the Leaflet library for map re
 
 If you have any feedback, suggestions, or issues regarding Mapty, please feel free to [contact us](mostafabder2@gmail.com) or open an issue on the GitHub repository.
 
+
 Enjoy tracking your workouts with Mapty!
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+![logo](https://github.com/Mostafabedeer/Mapty/assets/86775807/0304ccec-dbd0-4c1c-9b5b-40ef430c8776)
 
