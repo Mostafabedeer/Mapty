@@ -387,7 +387,7 @@ a:visited {
   }
 
   .form {
-    display: flex;
+    display: flex !important;
     flex-direction: column;
     height: auto;
   }
